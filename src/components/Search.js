@@ -379,7 +379,7 @@ function Info({ address }) {
 				<a
 					target="_"
 					className="dark-blue no-underline"
-					href="https://www1.nyc.gov/site/doitt/initiatives/3d-building.page"
+					href="https://www.nyc.gov/content/oti/pages/tools"
 				>
 					NYC 3D Building Model
 				</a>{" "}
